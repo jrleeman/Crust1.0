@@ -29,7 +29,7 @@ def convert_to_html(model):
     layer_labels = ["Water", "Ice", "Upper_Seds.", "Middle_Seds.",
                     "Lower_Seds.", "Upper_Crust", "Middle_Crust",
                     "Lower_Crust", "Mantle"]
-    header = ["Type", "Vp", "Vs", "rho", "Thickness", "Top"]
+    header = ["Type", "Vp", "Vs", "Density", "Thickness", "Top"]
 
     layer_names = ["water", "ice", "upper_sediments",
                    "middle_sediments", "lower_sediments",
