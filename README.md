@@ -17,7 +17,7 @@ modify anything or access it from your own program.
 ## How do I use it?
 If you just want to use the [Google Earth](https://www.google.com/earth/) file,
 simply download the KMZ file by clicking
-<a href="https://github.com/jrleeman/Crust1.0/blob/master/CRUST_1.0.kmz" target="_blank">here</a>.
+<a href="https://github.com/jrleeman/Crust1.0/blob/master/CRUST_1.0.kmz" download>here</a>.
 Open it in [Google Earth](https://www.google.com/earth/) and explore by clicking
 on a red point. The pop-up box will show you the latitude and longitude of that
 point and the information for each layer of the model. Information includes the
